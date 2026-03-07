@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Header Section -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F77B00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Annu+Nehara+%F0%9F%91%8B;BCA+First+Year+%7C+Exploring+Tech;Web+Dev+%E2%80%A2+Excel+Dashboards+%E2%80%A2+Always+Learning)](https://git.io/typing-svg)
 
-<!--
-**anunehara59-bit/anunehara59-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 *"Learning to code, one bug at a time"*
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=annunehara&color=blueviolet&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+annu = {
+    "current_learning": ["JavaScript basics", "Python fundamentals", "Web Design"],
+    "interests": ["Creating interactive websites", "Excel automation", "Problem solving"],
+    "open_to": ["Internships", "College projects", "Hackathon teams", "Study groups"],
+    "fun_fact": "I can make Excel do things that would surprise you! 📊"
+}
